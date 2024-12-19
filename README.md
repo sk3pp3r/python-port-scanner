@@ -18,7 +18,7 @@ A simple port scanner written in Python. This tool can be used to scan a range o
 
     ```sh
     git clone https://github.com/sk3pp3r/python-port-scanner.git
-    cd port-scanner
+    cd python-port-scanner
     ```
 
 2. **Run the port scanner:**
